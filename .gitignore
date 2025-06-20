@@ -1,0 +1,93 @@
+# Rust
+/target/
+Cargo.lock
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+*.cab
+*.msi
+*.msm
+*.msp
+*.lnk
+
+# Linux
+*~
+
+# Model files (too large for git)
+*.bin
+*.ggml
+*.pt
+*.pth
+
+# Audio test files
+*.wav
+*.mp3
+*.m4a
+*.flac
+*.ogg
+
+# Build artifacts
+build/
+cmake-build-*/
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+*.cmake
+
+# Generated bindings
+src/bindings.rs.bak
+
+# Logs
+*.log
+
+# Temporary files
+tmp/
+temp/
+.tmp/
+.temp/
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# Documentation build
+book/
+docs/_book/
+
+# Coverage reports
+tarpaulin-report.html
+cobertura.xml
+lcov.info
+
+# Profiling
+perf.data*
+*.prof
+
+# Backup files
+*.bak
+*.backup
+
+# Test artifacts
+test_output/
+test_results/
+
+# Whisper.cpp specific
+whisper.cpp/build/
+sys/whisper.cpp/build/

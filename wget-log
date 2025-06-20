@@ -1,0 +1,71 @@
+
+--2025-06-20 15:36:01--  (try: 7)  https://huggingface.co/ggerganov/whisper.cpp/resolve/main/ggml-tiny.bin
+Connecting to huggingface.co (huggingface.co)|23.101.24.70|:443... failed: Connection refused.
+Connecting to huggingface.co (huggingface.co)|2a03:2880:f134:183:face:b00c:0:25de|:443... failed: Operation timed out.
+Retrying.
+
+--2025-06-20 15:37:23--  (try: 8)  https://huggingface.co/ggerganov/whisper.cpp/resolve/main/ggml-tiny.bin
+Connecting to huggingface.co (huggingface.co)|23.101.24.70|:443... failed: Connection refused.
+Connecting to huggingface.co (huggingface.co)|2a03:2880:f134:183:face:b00c:0:25de|:443... failed: Operation timed out.
+Retrying.
+
+--2025-06-20 15:38:46--  (try: 9)  https://huggingface.co/ggerganov/whisper.cpp/resolve/main/ggml-tiny.bin
+Connecting to huggingface.co (huggingface.co)|23.101.24.70|:443... failed: Connection refused.
+Connecting to huggingface.co (huggingface.co)|2a03:2880:f134:183:face:b00c:0:25de|:443... failed: Operation timed out.
+Retrying.
+
+--2025-06-20 15:40:10--  (try:10)  https://huggingface.co/ggerganov/whisper.cpp/resolve/main/ggml-tiny.bin
+Connecting to huggingface.co (huggingface.co)|23.101.24.70|:443... failed: Connection refused.
+Connecting to huggingface.co (huggingface.co)|2a03:2880:f134:183:face:b00c:0:25de|:443... failed: Operation timed out.
+Retrying.
+
+--2025-06-20 15:41:35--  (try:11)  https://huggingface.co/ggerganov/whisper.cpp/resolve/main/ggml-tiny.bin
+Connecting to huggingface.co (huggingface.co)|23.101.24.70|:443... failed: Connection refused.
+Connecting to huggingface.co (huggingface.co)|2a03:2880:f134:183:face:b00c:0:25de|:443... failed: Operation timed out.
+Retrying.
+
+--2025-06-20 15:42:50--  (try:12)  https://huggingface.co/ggerganov/whisper.cpp/resolve/main/ggml-tiny.bin
+Connecting to huggingface.co (huggingface.co)|23.101.24.70|:443... failed: Connection refused.
+Connecting to huggingface.co (huggingface.co)|2a03:2880:f134:183:face:b00c:0:25de|:443... failed: Operation timed out.
+Retrying.
+
+--2025-06-20 15:44:15--  (try:13)  https://huggingface.co/ggerganov/whisper.cpp/resolve/main/ggml-tiny.bin
+Connecting to huggingface.co (huggingface.co)|23.101.24.70|:443... failed: Connection refused.
+Connecting to huggingface.co (huggingface.co)|2a03:2880:f134:183:face:b00c:0:25de|:443... failed: Operation timed out.
+Retrying.
+
+--2025-06-20 15:45:40--  (try:14)  https://huggingface.co/ggerganov/whisper.cpp/resolve/main/ggml-tiny.bin
+Connecting to huggingface.co (huggingface.co)|23.101.24.70|:443... failed: Connection refused.
+Connecting to huggingface.co (huggingface.co)|2a03:2880:f134:183:face:b00c:0:25de|:443... failed: Operation timed out.
+Retrying.
+
+--2025-06-20 15:47:05--  (try:15)  https://huggingface.co/ggerganov/whisper.cpp/resolve/main/ggml-tiny.bin
+Connecting to huggingface.co (huggingface.co)|23.101.24.70|:443... failed: Connection refused.
+Connecting to huggingface.co (huggingface.co)|2a03:2880:f134:183:face:b00c:0:25de|:443... failed: Operation timed out.
+Retrying.
+
+--2025-06-20 15:48:31--  (try:16)  https://huggingface.co/ggerganov/whisper.cpp/resolve/main/ggml-tiny.bin
+Connecting to huggingface.co (huggingface.co)|23.101.24.70|:443... failed: Connection refused.
+Connecting to huggingface.co (huggingface.co)|2a03:2880:f134:183:face:b00c:0:25de|:443... failed: Operation timed out.
+Retrying.
+
+--2025-06-20 15:49:56--  (try:17)  https://huggingface.co/ggerganov/whisper.cpp/resolve/main/ggml-tiny.bin
+Connecting to huggingface.co (huggingface.co)|23.101.24.70|:443... failed: Connection refused.
+Connecting to huggingface.co (huggingface.co)|2a03:2880:f134:183:face:b00c:0:25de|:443... failed: Operation timed out.
+Retrying.
+
+--2025-06-20 15:51:21--  (try:18)  https://huggingface.co/ggerganov/whisper.cpp/resolve/main/ggml-tiny.bin
+Connecting to huggingface.co (huggingface.co)|23.101.24.70|:443... failed: Connection refused.
+Connecting to huggingface.co (huggingface.co)|2a03:2880:f134:183:face:b00c:0:25de|:443... failed: Operation timed out.
+Retrying.
+
+--2025-06-20 15:52:46--  (try:19)  https://huggingface.co/ggerganov/whisper.cpp/resolve/main/ggml-tiny.bin
+Connecting to huggingface.co (huggingface.co)|23.101.24.70|:443... failed: Connection refused.
+Connecting to huggingface.co (huggingface.co)|2a03:2880:f134:183:face:b00c:0:25de|:443... failed: Operation timed out.
+Retrying.
+
+--2025-06-20 15:54:11--  (try:20)  https://huggingface.co/ggerganov/whisper.cpp/resolve/main/ggml-tiny.bin
+Connecting to huggingface.co (huggingface.co)|23.101.24.70|:443... failed: Connection refused.
+Connecting to huggingface.co (huggingface.co)|2a03:2880:f134:183:face:b00c:0:25de|:443... failed: Operation timed out.
+Giving up.
+
